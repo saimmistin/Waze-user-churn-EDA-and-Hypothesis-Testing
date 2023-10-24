@@ -5,7 +5,7 @@
 
 Overview
 
-This project focuses on the analysis of user data from the popular navigation app, Waze. We aim to gain insights into user behavior, identify trends, and understand factors affecting user retention.
+This project focuses on the analysis of user data from the popular navigation app, Waze. I aim to gain insights into user behavior, identify trends, and understand factors affecting user retention.
 
 Dataset
 
