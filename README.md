@@ -1,5 +1,6 @@
 # Waze-user-churn-EDA-and-Hypothesis-Testing
 
+![Waze](https://github.com/saimmistin/Waze-user-churn-EDA-and-Hypothesis-Testing/assets/67612693/32902245-cf75-45c6-8d83-d3e7c6007407)
 
 
 Overview
